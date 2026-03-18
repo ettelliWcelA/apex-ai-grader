@@ -27,7 +27,7 @@ The system grades stocks on a **0–100 composite score** with a **85+ buy thres
 
 ## Live Demo
 
-**[▶ Try APEX·AI on GitHub Pages →](https://YOUR-USERNAME.github.io/apex-ai-grader)**
+**[▶ Try APEX·AI on GitHub Pages →](https://ettelliWcelA.github.io/apex-ai-grader)**
 
 *(Update this link after deploying — see Setup below)*
 
